@@ -1,6 +1,6 @@
-# ground
-This application was generated using JHipster 5.0.0-beta.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.0.0-beta.1](https://www.jhipster.tech/documentation-archive/v5.0.0-beta.1).
-
+# 不嘴炮 球场见
+This application is for us。
+这个项目是为了热爱篮球的人，我的篮球伙伴们，学生时代的Allen阿瑞，昊子，现在一起战斗的伙伴 MrCc超
 ## Development
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
